@@ -1,2 +1,5 @@
 
+
 ibk-bws-design.20250526.text : 중요용지용도품(영업점) 신청, 인수도
+
+ibk-bws-design.20250528.text : 중요용지용도품(본부) 폐기
