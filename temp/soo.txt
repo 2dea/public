@@ -5,3 +5,5 @@ ibk-bws-design.20250526.text : 중요용지용도품(영업점) 신청, 인수�
 ibk-bws-design.20250528.text : 중요용지용도품(본부) 폐기, 용도품계정관리
 
 ibk-bws-design.20250529.txt : 중요용지용도품(영업점) 조회, 재난안전관리 배차관리
+
+ibk-bws-design.20250602.txt : 중요용지용도품(영업점) 폐기
